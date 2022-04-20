@@ -1,0 +1,162 @@
+.container{
+    display: flex;
+    width: 1720px;
+    height: 1180;
+   
+ justify-content: space-around;
+ align-items: baseline;
+ position: fixed
+
+
+
+}
+.li{
+    display: flex;
+    width: 550px;
+    justify-content: space-between;
+
+flex-direction: row;
+}
+.container2{
+    display: flex;
+}
+.right-block{
+    width: 600px;
+    margin: 300px 70px 260px 280px;
+    
+    
+    
+}
+.image{
+    width: 500px;
+}
+.left-block{
+    width: 500px;
+    margin: 280px 280px 870px 90px;
+    
+}
+.blue-box{
+    width: 260px;
+    height: 76px;
+    background-color: #3D37F1;
+    border-radius:38px ;
+    display: flex;
+    justify-content: center;
+    transition: all 1s step-end;
+}
+.blue-box:hover{
+    background-color: #FBBA77;
+
+}
+.blue-image{
+    width: 30px;
+    transition: all 1s ;
+}
+.blue-image:hover{
+    motion-rotation: reverse;
+}
+.text2{
+    font-size: 23px;
+}
+/* section2 */
+.title{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.wraper{
+    display: flex;
+    width: 1720px;
+    justify-content: space-evenly;
+    margin: 60px auto;
+    
+    
+}
+.block{
+    background-color: #FBBA77;
+    width: 280px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+
+    align-items: center;
+    flex-direction: column;
+}
+.block2{
+    width: 280px;
+    height: 300px;
+    background-color: #41EAE3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.block3{
+    width: 280px;
+    height: 300px;
+    background-color: #69529F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.wraper2{
+    width: 1720px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+.block4{
+    width: 280px;
+    height: 300px;
+    background-color: #4386D29F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.block5{
+    width: 280px;
+    height: 300px;
+    background-color: #A5A2F6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.block6{
+    width: 280px;
+    height: 300px;
+    background-color: #FF8088;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+   
+}
+.box{
+ width: 90px;
+ height: 45px;
+ border-radius: 23px;
+ background-color: #fff;
+ 
+}
+.box-text{
+    text-align: center;
+    transition: all 1s ease-in-out 1s;
+    
+}
+.data{
+    width: 80px;
+    height: 50px;
+}
+.block-text{
+    text-align: center;
+}
+.box-text:hover{
+    color: yellow;
+    font-size: large;
+    font-style: oblique;
+}
