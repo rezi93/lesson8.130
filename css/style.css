@@ -115,6 +115,7 @@ flex-direction: row;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    
 
 }
 .block5{
@@ -125,6 +126,7 @@ flex-direction: row;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    
 }
 .block6{
     width: 280px;
@@ -134,6 +136,7 @@ flex-direction: row;
     justify-content: center;
     align-items: center;
     flex-direction: column; 
+    
    
 }
 .box{

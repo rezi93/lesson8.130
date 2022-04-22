@@ -1,4 +1,109 @@
 @media (max-width: 768px){
     .block{
-        width: 80px;
+        width: 150px;
+    }
+    @media (max-width:768px){
+        .block2{
+            width: 150px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            color: navy;
+        }
+    }
+  
+    @media (max-width:768px){
+        .block3{
+            width: 150px;
+            color: red;
+        }
+    }
+    @media (max-width:768px){
+        .block4{
+            width: 150px;
+            margin-left: 430px;
+            background-color: peru;
+        }
+    }
+    @media (max-width:768px){
+        .block5{
+            width: 150px;
+            margin-top: 20px;
+            margin-left: 430px;
+            background-color: lime;
+        }
+    }
+    @media (max-width:768px){
+        .block6{
+            width: 150px;
+            margin-top: 20px;
+            margin-left: 430px;
+            background-color: deeppink;
+        }
+    }
+    @media (max-width:768px){
+        .wraper2{
+            width: 300px;
+            flex-direction: column;
+            align-items: center;
+            
+        }
+    }
+    @media (max-width:768px){
+        .wraper{
+            width: 300px;
+            flex-direction: column;
+            align-items: center;
+        }
+    }
+    @media (max-width:768px){
+        .li{
+            width: 300px;
+            margin-left: 200px;
+            
+        }
+    }
+    .mini-box{
+        margin-left: 500px;
+    }
+    @media (max-width:768px){
+        .container{
+            width: 350px;
+            
+        }
+    }
+    @media (max-width:768px){
+        .container2{
+            width: 300px;
+            flex-direction: column;
+            align-items: center;
+        }
+    }
+    @media (max-width:768px){
+        .right-block{
+            width: 100px;
+            margin-top: 15px;
+            margin-left: 440px;
+        }
+    }
+    @media (max-width:768px){
+        .left-block{
+            width: 80px;
+            margin-bottom: 15px;
+            flex-direction: column;
+            align-items: center;
+            margin-left: 440px;
+        }
+    }
+    @media (max-width:768px){
+        .image{
+            width: 150px;
+        }
+    }
+    @media (max-width:768px){
+        .title{
+            width: 200px;
+            flex-direction: column;
+            align-items: center;
+            margin-left: 270px;
+        }
     }
