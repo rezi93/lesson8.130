@@ -1,6 +1,7 @@
 @media (max-width: 768px){
     .block{
         width: 150px;
+        display: none;
     }
     @media (max-width:768px){
         .block2{
@@ -8,6 +9,7 @@
             margin-top: 20px;
             margin-bottom: 20px;
             color: navy;
+            
         }
     }
   
